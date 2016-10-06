@@ -1,0 +1,3 @@
+[submodule "Qt-Web-Call"]
+	path = Qt-Web-Call
+	url = git@github.com:Skycoder42/Qt-Web-Call.git
